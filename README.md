@@ -12,4 +12,4 @@ The 2 Excel data sets for demo - https://github.com/amlanpy/2024-U.S.-Presidenti
 
 BOT DETECTION (CHRISTINE)
 
-Run the code and it will ask you to type in a subreddit that you want to look into, then it will ask for the number of posts/comments that you want to look for, after answering the two questions it will start crawling and shows you who seems like a bot and who seems like a human. 
+Run CIS400project.py and it will ask you to type in a subreddit that you want to look into, then it will ask for the number of posts/comments that you want to look for, after answering the two questions it will start crawling and shows you who seems like a bot and who seems like a human. 
