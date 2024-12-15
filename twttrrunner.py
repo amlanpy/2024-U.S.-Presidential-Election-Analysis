@@ -126,16 +126,6 @@ def allLikesRankingTopTen(lines):
         print(f"{key}: {value}")
 
 
-
-def allHashtagRankingTopTen(lines):
-    list = []
-    getAllHashtags(lines, list)
-    count = Counter(list)
-    sorted_count = count.most_common(10)
-    for string, count in sorted_count:
-        print(f"{string}: {count}")
-
-
 #allHashtagRankingTopTen(lines)
 #allLikesRankingTopTen(lines)
 
